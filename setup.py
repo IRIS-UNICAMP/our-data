@@ -12,7 +12,7 @@ setup(
   download_url = f'https://github.com/IRIS-UNICAMP/our-data/archive/{VERSION}.tar.gz',
   keywords = ['data', 'api', 'public', 'miscelaneous', "open", 'source'],
   install_requires=[
-    requests
+    'requests'
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',

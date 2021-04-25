@@ -1,4 +1,4 @@
-VERSION = '0.01'
+VERSION = '0.02'
 from distutils.core import setup
 setup(
   name = 'ourdata',

@@ -1,3 +1,5 @@
+[![Upload Python Package](https://github.com/IRIS-UNICAMP/our-data/actions/workflows/python-publish.yml/badge.svg)](https://github.com/IRIS-UNICAMP/our-data/actions/workflows/python-publish.yml)
+
 # Our Data - Python3 Library
 Open source python library focused on useful modules that use data from public APIs
 
